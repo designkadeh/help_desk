@@ -25,7 +25,7 @@ help desk with php for linux &amp; windows with automatic database build
 #Methods
 * construct //for db connection
 * disConnect
-* curd
+* crud
 * login
 * logout
 * search
@@ -45,5 +45,6 @@ help desk with php for linux &amp; windows with automatic database build
 #About 
 * Email: mohammadtanhap2011@gmail.com
 * https://www.linkedin.com/in/designkadehcom/
-* Instagram: designkadeh
-* Telegram: designkadehcom
+* Instagram: mohammadtaghigholami
+* Telegram: mohammadtaghigholami
+* for more in social i use this number: +989364191194
