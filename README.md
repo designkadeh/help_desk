@@ -1,4 +1,4 @@
-# help_desk
+# help_desk (سیستم فریم ورک  تیکتینگ کوچک دانشگاهی)
 help desk with php for linux &amp; windows with automatic database build
 #App Descriptions & Running
 * Change str_replace array[0] according to your system (e.g: $lampp for ubuntu) on Database.php & setup.php internalUrl Method
