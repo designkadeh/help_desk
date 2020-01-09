@@ -6,7 +6,7 @@ help desk with php for linux &amp; windows with automatic database build
 * After success installation your files such as Install.php, Installation.php, db_create.php and setup.php removed automatically
 * Then your config.php file renew from your entered Data from Installation
 * This project create for tabriz number 1 technical university, Web design lesson
-* This project created by Mohammad Taghi Gholami, Developer & programmer at Urmia city in Republic Islamic of Iran
+* This project created by Mohammad Taghi Gholami and mir mahmood abolhasani, Developer & programmer at Urmia city in Republic Islamic of Iran
 * This Project use switches for routing in view/routing.php
 * This Project use ajax for login & Register and use notifications from javascript in assets/js/custom.js
 * This project used provided front interface for login from https://bootsnipp.com/snippets/featured/application-login
@@ -21,7 +21,7 @@ help desk with php for linux &amp; windows with automatic database build
 * نام دیتابیس ایده آل خود را جهت ساختن دیتابیس، جدول ها و رابطه ها وارد نمایید
 * پس از موفقیت در نصب فایل های شما از قبیل Installation.php, db_create.php, setup.php حذف خواهند شد.
 * سپس فایل config.php شما با توجه به اطلاعات ورودی شما در صفحه نصب تنظیم مجدد خواهد شد.
-* این پروژه برای درس طراحی وب دانشگاه فنی شماره 1 تبریز و با راهنمایی استاد میر محمود ابوالحسنی ساخته شده است
+* این پروژه برای درس طراحی وب دانشگاه فنی شماره 1 تبریز توسط محمد تقی غلامی و با راهنمایی استاد میر محمود ابوالحسنی ساخته شده است
 * این پروژه از switch برای routing در قسمت view/routing.php استفاده می نماید.
 * این پروژه از ایجکس برای ورود و عضویت استفاده کرده همچنین از نوتیفیکیشن قسمت assets/js/custom.js بهره می برد.
 * این پروژه از اینترفیس ظاهری https://bootsnipp.com/snippets/featured/application-login برای قسمت ورود استفاده کرده است.
